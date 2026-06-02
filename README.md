@@ -1,20 +1,39 @@
-# Crie Seu Produto com a Primia
+# Crie seu Produto Primia
 
-Pacote para montar, no seu Claude (claude.ai), um guia que conduz você da ideia
-até uma página de vendas publicada, mais anúncios prontos. Não precisa saber
-nada técnico.
+Pacote pronto para montar, no seu Claude, um assistente que te leva da ideia até
+uma página de vendas publicada na internet, com link para compartilhar, mais
+anúncios prontos. Foi feito para quem está começando: você responde perguntas
+simples e o assistente faz o trabalho pesado.
 
-## Como usar
+## O que tem aqui
 
-1. Baixe o arquivo [`crie-seu-produto-primia.zip`](crie-seu-produto-primia.zip)
-   (botão verde "Code" ou clique no arquivo e em "Download").
-2. Descompacte.
-3. Abra o `LEIA-PRIMEIRO.md` de dentro da pasta e siga os 3 passos.
+- `00-INSTRUCAO-MAE.md` — o guia completo (faça em casa, com calma).
+- `00-INSTRUCAO-MAE-EXPRESSA.md` — o guia rápido (versão usada ao vivo no evento).
+- `conhecimento/` — os arquivos que ensinam o assistente a conduzir cada etapa.
 
-Em resumo: você cria um Project no claude.ai, cola o conteúdo de
-`00-INSTRUCAO-MAE.md` no campo de instruções, e anexa os 13 arquivos da pasta
-`conhecimento/`. Depois é só abrir uma conversa e escrever "oi".
+## Como usar (3 passos)
 
----
+1. **Baixe os arquivos.** Clique no botão verde **Code** aqui em cima e em
+   **Download ZIP**. Descompacte no seu computador. (Também dá para baixar só o
+   `crie-seu-produto-primia.zip`.)
+2. **Crie um Projeto no Claude.** Entre em [claude.ai](https://claude.ai) e crie um
+   novo **Projeto**. Em **Instruções do projeto**, cole TODO o conteúdo de UM dos
+   arquivos `00-INSTRUCAO-MAE` (use o EXPRESSA para um teste rápido, ou o completo
+   para fazer com calma).
+3. **Anexe o conhecimento.** Suba todos os arquivos da pasta `conhecimento/` como
+   conhecimento do Projeto.
 
-Primia.
+Pronto. Abra uma conversa nova nesse Projeto e mande "vamos começar". O assistente
+conduz o resto.
+
+> É preciso ter um plano pago do Claude para publicar a página no final.
+
+## Atalho para quem usa o Claude Code
+
+Se você usa o Claude Code no terminal, pode pedir para ele montar tudo a partir
+do link deste repositório:
+
+```
+Clone este repositório e me ajude a configurar como um Projeto do Claude:
+https://github.com/berdantx/crie-seu-produto-primia
+```
