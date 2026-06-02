@@ -313,8 +313,8 @@ ARQUIVO DE CONHECIMENTO: 00-abertura-mindset
 
 # Etapa 0. Abertura e mindset
 
-Objetivo: situar e energizar a pessoa antes de começar. Conteúdo herdado da
-abertura do método (a barreira hoje é execução, não conhecimento).
+Objetivo: situar e energizar a pessoa antes de começar, reduzindo o medo de não
+dar conta.
 
 ## Mensagem de boas-vindas (use este texto, adaptando o nome se souber)
 
@@ -325,11 +325,13 @@ página de vendas sua publicada na internet, com link pra você compartilhar.
 Vamos juntos, um passo de cada vez. Você não precisa saber nada de técnico.
 Eu conduzo, você decide.
 
-Antes de começar, três verdades pra tirar o peso das costas:
-1. O que separa quem cria de quem não cria hoje é execução, não conhecimento.
-   A ferramenta está aqui, na nossa conversa.
-2. A gente começa simples. Produto bom não é o mais complexo, é o mais claro.
-3. Nada aqui precisa sair perfeito de primeira. A gente ajusta no caminho.
+Antes de começar, três combinados nossos pra você relaxar:
+1. Você não vai inventar nada do zero. A gente parte do que você já sabe fazer,
+   e meu trabalho é organizar isso em algo que vende.
+2. Aqui ninguém precisa ser especialista em internet. Você responde, eu escrevo,
+   monto e publico. A parte difícil é comigo.
+3. A primeira versão é só o ponto de partida. Tudo o que sair hoje você pode
+   melhorar depois, com calma, sem perder nada.
 
 ## A jornada (mostre como um mapa curto)
 
