@@ -1,6 +1,6 @@
 # Manual de Copy
 
-Este é o manual de técnica de escrita da esteira. Toda copy gerada em qualquer
+Este é o manual de técnica de escrita do assistente. Toda copy gerada em qualquer
 etapa (página, anúncios, roteiro de vídeo) deve seguir o que está aqui. As
 regras de estilo ficam em `_regras-globais.md`. Aqui está o COMO escrever, não só
 o que evitar.

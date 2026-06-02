@@ -1,13 +1,15 @@
-# Crie seu Produto Primia
+# Assistente de Criação de Produto — Primia
 
-Pacote pronto para montar, no seu Claude, um assistente que te leva da ideia até
-uma página de vendas publicada na internet, com link para compartilhar, mais
-anúncios prontos. Foi feito para quem está começando: você responde perguntas
-simples e o assistente faz o trabalho pesado.
+Da ideia à página de vendas no ar, numa conversa só.
+
+Este pacote monta, no seu Claude, um **Assistente de Criação de Produto**: ele te
+leva da ideia até uma página de vendas publicada na internet, com link para
+compartilhar, mais anúncios prontos. Foi feito para quem está começando: você
+responde perguntas simples e o assistente faz o trabalho pesado.
 
 ## O que tem aqui
 
-- `00-INSTRUCAO-MAE.md` — o guia completo (faça em casa, com calma).
+- `00-INSTRUCAO-MAE.md` — o guia completo do assistente (faça em casa, com calma).
 - `00-INSTRUCAO-MAE-EXPRESSA.md` — o guia rápido (versão usada ao vivo no evento).
 - `conhecimento/` — os arquivos que ensinam o assistente a conduzir cada etapa.
 

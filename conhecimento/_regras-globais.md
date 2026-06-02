@@ -1,4 +1,4 @@
-# Regras Globais da Esteira
+# Regras Globais do Assistente
 
 Estas regras valem para TODAS as etapas. Toda saída gerada em qualquer etapa
 precisa respeitá-las.
